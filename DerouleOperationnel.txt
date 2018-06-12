@@ -2,9 +2,8 @@
 
 16/30 Septembre 2017 : Tracé de diagrammes de Voronoï par différentes méthodes plus ou moins concluantes dont l'utilité s'est révélée très faible dans notre étude
 
-Lundi 16 Octobre 2017 : Conférence Vénissieux Janus France
-  Présentation Mémoire Clément DILLENSEGER étudiant ENS Géographie Freins à la mobilité à vélo
-  Rencontre avec l'association Janus France
+Lundi 16 Octobre 2017 : Conférence Vénissieux Janus France et rencontre avec l'association Janus France
+  Présentation Mémoire "Freins à la mobilité à vélo" Clément DILLENSEGER, étudiant à l'ENS Géographie
   Rencontre avec un urbaniste qui nous a conseillé le logiciel de cartographie Qgis (notamment afin de réaliser des courbes isochrones)
 
 Octobre 2017 : Analyse des notes rassemblées lors de la conférence, manipulation de QGis
