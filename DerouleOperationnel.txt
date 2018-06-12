@@ -1,0 +1,28 @@
+01/15 Septembre 2017 : Recherche documentaire sur le système de vélos partagés considéré
+
+16/30 Septembre 2017 : Tracé de diagrammes de Voronoï par différentes méthodes plus ou moins concluantes dont l'utilité s'est révélée très faible dans notre étude
+
+Lundi 16 Octobre 2017 : Conférence Vénissieux Janus France
+  Présentation Mémoire Clément DILLENSEGER étudiant ENS Géographie Freins à la mobilité à vélo
+  Rencontre avec l'association Janus France
+  Rencontre avec un urbaniste qui nous a conseillé le logiciel de cartographie Qgis (notamment afin de réaliser des courbes isochrones)
+
+Octobre 2017 : Analyse des notes rassemblées lors de la conférence, manipulation de QGis
+
+Novembre 2017 : Collecte des données et tri de celles-ci en vue de la création d'une base de données que l'on a automatisé par un programme
+
+Décembre 2017 : La base de données est fonctionnelle, on trace alors des premières modélisations
+
+Janvier 2018 : Premier traitement des données météorologiques que l'on conserve pour la suite du travail en vue d'une future exploitation
+  Première méthode de prédiction codée
+
+31 Janvier 2018 : Rencontre avec Jairo Cugliari, statisticien au laboratoire ERIC à Bron
+
+Février 2018: Deuxième méthode de prédiction codée
+
+Mars 2018 : Troisième méthode de prédiction codée
+
+Avril 2018 : Analyse des résultats, comparaison des méthodes de prédiction
+
+Mai 2018 : Création de variantes des méthodes de prévision et analyse des résultats
+  Analyse de l'influence de la météo par une méthode statistique
