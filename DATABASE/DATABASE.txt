@@ -1,1 +1,3 @@
+Il manque dans ce dossier la base de données effective ainsi que le fichier contenant les données triées : c'est problématique.
+
 # Construction de la base de données :
