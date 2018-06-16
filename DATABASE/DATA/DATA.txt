@@ -1,1 +1,7 @@
+# Données initiales :
+Les données initiales ne peuvent être jointes au dossier car elles sont de tailles trop importantes.
+Elles se présentent sous la forme de relevés de disponibilité de vélos à chaque station (le contenu est détaillé ci-après).
+En effet, nous avons à notre disposition environ 3 mesures par heure par station par jour pendant 8 mois (limite de notre étude choisie par nos impératifs) : nous pourrons l'étendre plus tard.
+
+
 # Tri des données initiales :
