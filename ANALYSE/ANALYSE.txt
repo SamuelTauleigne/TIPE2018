@@ -1,0 +1,2 @@
+Voici les méthodes d'analyse résultats obtenus à partir des données collectées.
+Nous utiliserons principalement la méthode d'évaluation de la précision RMSE (Root Mean Square Error).
