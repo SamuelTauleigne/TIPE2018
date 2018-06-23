@@ -1,0 +1,1 @@
+Voici les méthodes de prévision ainsi que la fonction permettant de tracer les disponibilités de vélos pour un jour donné.
