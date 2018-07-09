@@ -1,6 +1,6 @@
-#! /usr/bin/env python3
+# TraceOrigine.py : Permet de tracer la courbe de disponibilité de vélos un jour donné
 
-# Programme permettant de tracer la courbe de disponibilité de vélos un jour donné
+
 
 import sqlite3
 import matplotlib.pyplot as plt
@@ -29,7 +29,6 @@ def trace(d, id_stand):
              '''
     # Tracé
     plt.clf()
-    #plt.style.use(['dark_background'])
     # On execute la requête et on recupère la liste des données.
     c.execute(req, [id_stand, d])
     data = c.fetchall()
@@ -46,5 +45,4 @@ def trace(d, id_stand):
     plt.legend()
     plt.grid(True)
     plt.gcf().autofmt_xdate()
-    #plt.show()
     plt.savefig('Courbe_0_du_' + str(d) + '_en_' + str(id_stand) + '.png')
