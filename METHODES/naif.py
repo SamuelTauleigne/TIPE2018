@@ -1,4 +1,5 @@
-# Méthode naïve n'utilisant que les dernières données et effectuant une régression linéaire
+# naif.py : Méthode naïve n'utilisant que les dernières données et effectuant une régression linéaire
+
 
 
 import sqlite3
