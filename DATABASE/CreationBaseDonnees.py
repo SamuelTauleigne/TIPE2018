@@ -1,5 +1,5 @@
-# Ce script permet la construction de la base de données,
-# il ne reste plus qu'à importer les fichiers csv nécessaires.
+# CreationBaseDonnees.py : Permet la construction de la base de données, il ne reste plus qu'à importer les fichiers csv nécessaires
+
 
 import sqlite3
 
@@ -49,20 +49,3 @@ print(".import Sorted_Data.csv VELOV")
 print(".import donnees_stations.csv STATIONS")
 print(".import Dates.csv DATES")
 print(".import Meteo.csv METEO")
-
-
-
-
-######Ceci#aurait#pu#marcher#####
-"""
-import pandas
-
-df = pandas.read_csv("Sorted_Data.csv")
-df.to_sql("VELOV", db, if_exists='append', index=False)
-
-df = pandas.read_csv("donnees_stations.csv")
-df.to_sql("STATIONS", db, if_exists='append', index=False)
-
-df = pandas.read_csv("Dates.csv")
-df.to_sql("DATES", db, if_exists='append', index=False)
-"""
