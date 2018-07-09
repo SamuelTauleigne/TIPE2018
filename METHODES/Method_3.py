@@ -1,3 +1,7 @@
+# Method_3.py : Méthode par recherche de similarités
+
+
+
 import sqlite3
 import datetime as dt
 import matplotlib.pyplot as plt
