@@ -1,4 +1,6 @@
-### Ce script comporte l'analyse des méthodes de prévision.
+# Analyse_exe.py : Comporte un préliminaire à l'analyse des méthodes de prévision
+
+
 
 import sqlite3
 import matplotlib.pyplot as plt
