@@ -1,3 +1,6 @@
+# Data_Sorting.py : Produit un fichier 'Sorted_Data.csv' contenant les données nécessaires au traitement des données collectées
+
+
 import re, datetime
 
 sources = ['data_all_Lyon_Septembre_2017', 'data_all_Lyon_Octobre_2017', 'data_all_Lyon_Novembre_2017', 'data_all_Lyon_Decembre_2017', 'data_all_Lyon_Janvier_2018', 'data_all_Lyon_Fevrier_2018', 'data_all_Lyon_Mars_2018', 'data_all_Lyon_Avril_2018']
