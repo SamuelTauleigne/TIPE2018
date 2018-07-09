@@ -1,3 +1,7 @@
+# Method_2.py : Méthode par saisonnalité
+
+
+
 import sqlite3
 import datetime as dt
 import matplotlib.pyplot as plt
@@ -11,7 +15,6 @@ c = conn.cursor()
 # Données
 
 lmm = '8054'
-#day_l, day_c = input(), input()
 day_l = 'mardi'
 day_c = '2018-01-30'
 
@@ -61,7 +64,6 @@ for k in range(n-1):
     les_dispos.append(average(ans))
 
 plt.clf()
-# plt.style.use(['dark_background'])
 x = [dt.datetime.strptime(t,'%H:%M:%S') for t in les_t]
 plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('%H'))
 plt.gca().xaxis.set_major_locator(mdates.HourLocator())
